@@ -1,0 +1,1 @@
+# particionamiento de disco duro
